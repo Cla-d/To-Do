@@ -5,4 +5,4 @@ function ToDoList(){
     return(<ToDoItem/>)
 }
 
-export default ToDoList
+export default ToDoList;
